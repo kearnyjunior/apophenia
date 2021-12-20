@@ -1,11 +1,17 @@
 # apophenia
 Apophenia https://en.wikipedia.org/wiki/Apophenia  is the misrecognition of patterns in noise. Both humans and machines see patterns where there are none; the more data, the easier misinterpretation becomes. The interpretation of meaning between either connected or unconnected information is central to the subjective artistic process in humans. How machines interpret and produce connections between information is often considered to be entirely rational. Apophenia explores the relationship between human and machine pattern recognition and misrecognition in creative processes.
 Apophenia is a collage of dynamic audio and visual elements that can be presented through various mediums and on various platforms. Some aspects of the information in Apophenia are randomised and some are purposefully designed through pattern recognition and mis-recognition, either by a human or a machine. What remains consistent in exhibitions of Apophenia across virtual and physical space, is that viewers are asked to consider the relationship between the audio and the visual information. Through this, viewers are invited to engage in their own pattern recognition and mis-recognition in response to noise.
+
+Jim McLachlan
 https://www.linkedin.com/in/james-mclachlan-2128121b2/
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
- Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+ Copyright (C) 2007 Free Software Foundation, Inc.
+ 
+ <http://fsf.org/>
+ 
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
